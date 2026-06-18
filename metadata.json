@@ -1,0 +1,6 @@
+{
+  "name": "AmorsNadel Tattoo",
+  "description": "Ein elegantes, modernes Berliner Tattoo-Studio für präzise Fineline, Blackwork, Kalligrafie und wikingische Kunst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
