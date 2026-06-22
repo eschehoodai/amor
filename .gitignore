@@ -6,3 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Huge original marble source textures (optimized copies live in public/textures)
+design-sources/

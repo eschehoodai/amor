@@ -24,8 +24,11 @@ export default function App() {
   return (
     <Router>
       <ScrollToTop />
-      <div className="flex flex-col min-h-screen bg-ink-black text-soft-white font-sans antialiased overflow-x-hidden" id="app-container">
-        
+      <div className="flex flex-col min-h-screen text-soft-white font-sans antialiased overflow-x-hidden" id="app-container">
+
+        {/* Page-wide marble backdrop (see .marble-backdrop in index.css) */}
+        <div className="marble-backdrop" aria-hidden="true" />
+
         {/* Navigation Header */}
         <Header />
 

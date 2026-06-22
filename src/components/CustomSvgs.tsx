@@ -133,6 +133,27 @@ export const CompassRoseSvg: FC<SvgProps> = ({ className = 'h-12 w-12', color = 
   );
 };
 
+/**
+ * Renders one of the flat illustration icons from /public/icons as a
+ * gold-toned, theme-consistent glyph. Pass the file name without the
+ * `.svg` extension, e.g. <StudioIcon name="020-ink" />.
+ */
+export const StudioIcon: FC<{ name: string; className?: string; alt?: string }> = ({
+  name,
+  className = 'h-8 w-8',
+  alt = '',
+}) => {
+  return (
+    <img
+      src={`/icons/${encodeURIComponent(name)}.svg`}
+      alt={alt}
+      aria-hidden={alt === '' ? true : undefined}
+      loading="lazy"
+      className={`studio-icon select-none pointer-events-none ${className}`}
+    />
+  );
+};
+
 export const SignatureCheckSvg: FC<SvgProps> = ({ className = 'h-5 w-5', color = '#D4A017' }) => {
   return (
     <svg

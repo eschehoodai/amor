@@ -1,5 +1,37 @@
-@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
 @import "tailwindcss";
+
+/* Lokale Schriften (public/fonts). Variable und statische TTFs, jeweils mit
+   font-display: swap, damit Text sofort sichtbar ist und nach dem Laden
+   ausgetauscht wird. */
+@font-face {
+  font-family: "DM Sans";
+  src: url('/fonts/dm-sans.ttf') format('truetype');
+  font-weight: 100 1000;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Trykker";
+  src: url('/fonts/trykker.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Monarch Shadow";
+  src: url('/fonts/monarch-shadow.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "The Vanderink";
+  src: url('/fonts/vanderink.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
 
 @theme {
   --color-ink-black: #0D0D0D;
@@ -8,10 +40,28 @@
   --color-tattoo-red: #C8102E;
   --color-old-gold: #D4A017;
 
-  --font-display: "Georgia", "Bodoni Moda", "Playfair Display", serif;
-  --font-sans: "Inter", system-ui, sans-serif;
+  --font-display: "Monarch Shadow", "Georgia", serif;
+  --font-title: "Monarch Shadow", "Georgia", serif;
+  --font-sans: "DM Sans", system-ui, sans-serif;
+  --font-serif: "Trykker", "Georgia", serif;
   --font-mono: "JetBrains Mono", monospace;
-  --font-hand: "Brush Script MT", "Alex Brush", "cursive";
+  --font-hand: "The Vanderink", "Brush Script MT", cursive;
+
+  /* Rollenbasierte Typo-Skala (16px-Basis). Jedes Token bringt die passende
+     Zeilenhöhe gleich mit, damit Fließtext nicht mehr ad-hoc pro Stelle
+     gesetzt wird. Verwendung:
+       text-eyebrow → kurze Versal-Labels (font-mono behalten)
+       text-caption → Meta, Fußnoten, dichte Listen (font-sans)
+       text-body    → Standard-Fließtext (font-sans)
+       text-lead    → Einleitungs-/Intro-Absätze (font-sans) */
+  --text-eyebrow: 0.75rem;          /* 12px */
+  --text-eyebrow--line-height: 1.4;
+  --text-caption: 0.8125rem;        /* 13px */
+  --text-caption--line-height: 1.55;
+  --text-body: 1rem;                /* 16px */
+  --text-body--line-height: 1.65;
+  --text-lead: 1.125rem;            /* 18px */
+  --text-lead--line-height: 1.6;
 }
 
 /* Custom Scrollbar */
@@ -34,4 +84,31 @@ body {
   color: var(--color-soft-white);
   font-family: var(--font-sans);
   overflow-x: hidden;
+}
+
+/* Page-wide black-&-gold marble backdrop. Sits behind all content (z -1) and
+   stays fixed while scrolling. A dark overlay is baked over the texture so the
+   gold veining never fights the text. The sticky header keeps its own opaque
+   bg-ink-black, so the marble shows everywhere except behind the nav. */
+.marble-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image:
+    linear-gradient(to bottom, rgba(13, 13, 13, 0.84), rgba(13, 13, 13, 0.9)),
+    url('/textures/marble-06.webp');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* Studio icons (public/icons): full-colour flat illustrations shown in their
+   original colours. A gentle scale-up on hover keeps them lively without
+   altering the artwork. */
+.studio-icon {
+  transition: transform 0.4s ease;
+}
+.group:hover .studio-icon {
+  transform: scale(1.08);
 }

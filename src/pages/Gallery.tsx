@@ -26,19 +26,19 @@ export const Gallery: FC = () => {
     : TATTOO_PORTFOLIO.filter(item => item.style.toLowerCase() === selectedStyle.toLowerCase());
 
   return (
-    <div className="bg-ink-black min-h-screen text-soft-white font-sans py-16" id="portfolio-gallery-page">
+    <div className="bg-transparent min-h-screen text-soft-white font-sans py-16" id="portfolio-gallery-page">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Header Title */}
         <div className="text-center space-y-3 mb-16">
-          <span className="font-mono text-xs uppercase tracking-[0.3em] text-tattoo-red">Haut-Meisterwerke</span>
+          <span className="font-mono text-eyebrow uppercase tracking-[0.3em] text-tattoo-red">Haut-Meisterwerke</span>
           <h1 className="font-display text-4xl sm:text-5xl font-light text-soft-white">Unsere Galerie</h1>
-          <p className="text-sm text-soft-white/60 max-w-xl mx-auto font-light leading-relaxed">
+          <p className="text-body text-soft-white/80 max-w-xl mx-auto font-light">
             Jede Tätowierung ist ein Unikat. Schau dir unsere hochauflösenden Abzüge echter Arbeiten an. Klicke auf ein Bild, um Details zu Artist, Größe und Stechzeit zu erfahren.
           </p>
           <div className="pt-2 relative flex flex-col items-center">
             <OrnamentDivider className="max-w-xs text-old-gold mx-auto" />
-            <span className="font-hand text-old-gold text-2xl -rotate-[4deg] mt-2 block" style={{ fontFamily: "'Brush Script MT', 'Alex Brush', cursive" }}>
+            <span className="font-hand text-old-gold text-2xl -rotate-[4deg] mt-2 block">
               handgezeichnet.
             </span>
           </div>
@@ -63,7 +63,7 @@ export const Gallery: FC = () => {
 
         {/* The TattooGrid (6 items, highly aesthetic) */}
         {filteredPortfolio.length === 0 ? (
-          <div className="text-center py-20 text-soft-white/40 font-mono text-sm">
+          <div className="text-center py-20 text-soft-white/50 font-mono text-body">
             Momentan keine Tattoos in dieser Kategorie gelistet.
           </div>
         ) : (
@@ -101,33 +101,33 @@ export const Gallery: FC = () => {
                       >
                         <Maximize2 className="h-5 w-5" />
                       </button>
-                      <span className="font-mono text-[10px] uppercase tracking-wider text-soft-white/60">
+                      <span className="font-mono text-eyebrow uppercase tracking-wider text-soft-white/60">
                         Klicken für Details &amp; Infos
                       </span>
                     </div>
 
-                    <span className="absolute top-3 left-3 bg-ink-black/80 font-mono text-[9px] uppercase tracking-[0.2em] px-2 py-1 text-old-gold border border-old-gold/30">
+                    <span className="absolute top-3 left-3 bg-ink-black/80 font-mono text-eyebrow uppercase tracking-[0.2em] px-2 py-1 text-old-gold border border-old-gold/30">
                       {item.style}
                     </span>
-                    <span className="absolute top-3 right-3 font-mono text-[10px] text-old-gold bg-ink-black/85 px-2 py-1 border border-old-gold/30">
+                    <span className="absolute top-3 right-3 font-mono text-eyebrow text-old-gold bg-ink-black/85 px-2 py-1 border border-old-gold/30">
                       Nº 04{item.id}
                     </span>
                   </div>
 
                   <div className="space-y-3">
                     <div className="flex justify-between items-start">
-                      <h3 className="font-display text-lg text-soft-white group-hover:text-old-gold transition-colors duration-200">
+                      <h3 className="font-hand text-lg text-soft-white group-hover:text-old-gold transition-colors duration-200">
                         {item.title}
                       </h3>
                     </div>
                     
-                    <div className="pt-3 border-t border-soft-white/5 grid grid-cols-2 gap-2 text-xs font-mono text-soft-white/50">
+                    <div className="pt-3 border-t border-soft-white/5 grid grid-cols-2 gap-2 text-caption font-mono text-soft-white/60">
                       <div>
-                        <span className="block text-[9px] uppercase text-old-gold/70">Artist</span>
+                        <span className="block text-eyebrow uppercase text-old-gold/70">Artist</span>
                         <span className="truncate block text-soft-white/70">{item.artist}</span>
                       </div>
                       <div>
-                        <span className="block text-[9px] uppercase text-old-gold/70">Sitzung</span>
+                        <span className="block text-eyebrow uppercase text-old-gold/70">Sitzung</span>
                         <span className="block text-soft-white/70">{item.duration}</span>
                       </div>
                     </div>
@@ -141,7 +141,7 @@ export const Gallery: FC = () => {
         {/* Portfolio CTA segment */}
         <div className="mt-20 border-t border-soft-white/10 pt-16 text-center max-w-2xl mx-auto space-y-6">
           <h2 className="font-display text-2xl font-light text-soft-white">Gefällt dir einer dieser Stile?</h2>
-          <p className="text-sm text-soft-white/65 leading-relaxed font-light">
+          <p className="text-body text-soft-white/80 font-light">
             Buche direkt ein kostenloses Beratungsgespräch mitsamt Wunschstil-Auswahl. Wir entwerfen dein Wunschmotiv maßgeschneidert und zentimetergenau.
           </p>
           <div className="pt-2">
@@ -200,7 +200,7 @@ export const Gallery: FC = () => {
               <div className="p-4 md:p-8 flex flex-col justify-between space-y-6">
                 <div className="space-y-4">
                   <div>
-                    <span className="font-mono text-xs text-tattoo-red uppercase tracking-widest block">
+                    <span className="font-mono text-eyebrow text-tattoo-red uppercase tracking-widest block">
                       {activeTattoo.style} Stil
                     </span>
                     <h2 className="font-display text-2xl md:text-3xl font-light text-soft-white tracking-wide mt-1">
@@ -208,14 +208,14 @@ export const Gallery: FC = () => {
                     </h2>
                   </div>
 
-                  <p className="text-sm text-soft-white/70 leading-relaxed font-light">
+                  <p className="text-body text-soft-white/80 font-light">
                     {activeTattoo.description}
                   </p>
 
                   <div className="w-12 h-[1px] bg-old-gold" />
 
                   {/* Metadata fields */}
-                  <div className="space-y-3 font-mono text-xs">
+                  <div className="space-y-3 font-mono text-caption">
                     <div className="flex items-center space-x-3 text-soft-white/80">
                       <User className="h-4 w-4 text-old-gold" />
                       <span><strong>Artist:</strong> {activeTattoo.artist}</span>

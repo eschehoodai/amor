@@ -27,7 +27,7 @@ export const Footer: FC = () => {
                 AmorsNadel
               </span>
             </div>
-            <p className="text-sm text-soft-white/65 leading-relaxed">
+            <p className="text-body text-soft-white/80 leading-relaxed">
               Dein meisterhaftes Tätowieratelier im kulturellen Herzen Zittaus, Kamens, Dresdens. Wir vereinen historische Präzision mit modernster Hautkunst. Jedes Tattoo ist ein maßgeschneidertes, hygienisch makelloses Meisterwerk, das deine Geschichte erzählt.
             </p>
             <div className="flex space-x-4 pt-2">
@@ -35,7 +35,7 @@ export const Footer: FC = () => {
                 href="https://www.instagram.com/amors_nadel_"
                 target="_blank"
                 rel="noreferrer"
-                className="text-soft-white/50 hover:text-old-gold transition-colors text-xs font-mono tracking-wider uppercase"
+                className="text-soft-white/50 hover:text-old-gold transition-colors text-caption font-mono tracking-wider uppercase"
               >
                 Instagram
               </a>
@@ -44,7 +44,7 @@ export const Footer: FC = () => {
                 href="https://facebook.com"
                 target="_blank"
                 rel="noreferrer"
-                className="text-soft-white/50 hover:text-old-gold transition-colors text-xs font-mono tracking-wider uppercase"
+                className="text-soft-white/50 hover:text-old-gold transition-colors text-caption font-mono tracking-wider uppercase"
               >
                 Facebook
               </a>
@@ -53,7 +53,7 @@ export const Footer: FC = () => {
 
           {/* Column 2: Navigation Links */}
           <div className="space-y-4" id="footer-col-nav">
-            <h3 className="font-mono text-xs uppercase tracking-[0.2em] text-old-gold">
+            <h3 className="font-mono text-eyebrow uppercase tracking-[0.2em] text-old-gold">
               Navigation
             </h3>
             <ul className="space-y-2.5">
@@ -92,7 +92,7 @@ export const Footer: FC = () => {
 
           {/* Column 3: Contact Details */}
           <div className="space-y-4" id="footer-col-contact">
-            <h3 className="font-mono text-xs uppercase tracking-[0.2em] text-old-gold">
+            <h3 className="font-mono text-eyebrow uppercase tracking-[0.2em] text-old-gold">
               Kontakt
             </h3>
             <ul className="space-y-3">
@@ -121,23 +121,23 @@ export const Footer: FC = () => {
 
           {/* Column 4: Hours */}
           <div className="space-y-4" id="footer-col-hours">
-            <h3 className="font-mono text-xs uppercase tracking-[0.2em] text-old-gold">
+            <h3 className="font-mono text-eyebrow uppercase tracking-[0.2em] text-old-gold">
               Öffnungszeiten
             </h3>
             <ul className="space-y-2.5 text-sm text-soft-white/75">
               <li className="flex justify-between">
                 <span>Mo – Fr:</span>
-                <span className="font-mono text-xs">12:00 – 20:00</span>
+                <span className="font-mono text-caption">12:00 – 20:00</span>
               </li>
               <li className="flex justify-between">
                 <span>Sa:</span>
-                <span className="font-mono text-xs">11:00 – 18:00</span>
+                <span className="font-mono text-caption">11:00 – 18:00</span>
               </li>
               <li className="flex justify-between text-soft-white/45">
                 <span>So:</span>
-                <span className="font-mono text-xs">Geschlossen</span>
+                <span className="font-mono text-caption">Geschlossen</span>
               </li>
-              <li className="pt-2 flex items-center space-x-2 text-xs font-mono text-old-gold">
+              <li className="pt-2 flex items-center space-x-2 text-caption font-mono text-old-gold">
                 <Clock className="h-4 w-4 shrink-0" />
                 <span>NUR MIT TERMIN</span>
               </li>
@@ -153,7 +153,7 @@ export const Footer: FC = () => {
               <path d="M0 1 Q 512 2, 1024 0" fill="none" stroke="#D4A017" strokeWidth="1.5" />
             </svg>
           </div>
-          <div className="flex flex-col md:flex-row items-center justify-between text-xs text-soft-white/45 font-mono pt-4">
+          <div className="flex flex-col md:flex-row items-center justify-between text-caption text-soft-white/45 font-mono pt-4">
             <p>© {new Date().getFullYear()} AmorsNadel Tattoo. Gemacht mit Tinte und Geduld. Alle Rechte vorbehalten.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <span className="hover:text-soft-white cursor-pointer transition-colors">Impressum</span>

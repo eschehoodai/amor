@@ -27,13 +27,13 @@ export const Header: FC = () => {
               <LogoSvg className="h-12 w-12 text-old-gold" />
             </div>
             <div className="flex flex-col relative">
-              <span className="font-display text-xl tracking-[0.2em] uppercase text-soft-white leading-tight group-hover:text-old-gold transition-colors duration-300">
+              <span className="font-hand text-3xl text-soft-white leading-tight group-hover:text-old-gold transition-colors duration-300">
                 AmorsNadel
               </span>
               <svg className="my-0.5" width="100" height="4" viewBox="0 0 100 4" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M2 2 Q 25 1, 50 2 T 98 2" stroke="#D4A017" strokeWidth="1.2" strokeLinecap="round" />
               </svg>
-              <span className="font-mono text-[9px] uppercase tracking-[0.3em] text-tattoo-red leading-none">
+              <span className="font-mono text-eyebrow uppercase tracking-[0.3em] text-tattoo-red leading-none">
                 Hautkunst Studio
               </span>
             </div>
@@ -73,7 +73,7 @@ export const Header: FC = () => {
           <div className="hidden lg:flex items-center space-x-6" id="header-cta-container">
             <a
               href="tel:+491744312856"
-              className="flex items-center space-x-2 font-mono text-[11px] text-soft-white/60 hover:text-old-gold transition-colors duration-300"
+              className="flex items-center space-x-2 font-mono text-caption text-soft-white/60 hover:text-old-gold transition-colors duration-300"
             >
               <Phone className="h-3.5 w-3.5 text-tattoo-red" />
               <span>0174 4312856</span>
