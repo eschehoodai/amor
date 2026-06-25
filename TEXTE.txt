@@ -1,0 +1,816 @@
+================================================================================
+AMORSNADEL – ALLE WEBSITE-TEXTE (sortiert nach Seite / Bereich)
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+NAVIGATION (Header)
+────────────────────────────────────────────────────────────────────────────────
+Logo-Schriftzug:         AmorsNadel
+Unter-Claim Header:      Hautkunst Studio
+
+Navigationslinks:
+  - Startseite
+  - Portfolio
+  - Permanent Make-up
+  - Piercing
+  - Kurse
+  - Anfrage stellen
+
+Header-CTA-Button:       Anfrage Senden
+Telefon (Header):        0174 4312856
+
+
+────────────────────────────────────────────────────────────────────────────────
+STARTSEITE (Home)
+────────────────────────────────────────────────────────────────────────────────
+
+## HERO-BEREICH
+
+Eyebrow:    Meisterhafte Präzision & Haute-Couture der Haut
+H1:         AmorsNadel
+Unterzeile: Wo tiefes Gefühl auf makellose Symmetrie trifft.
+            Wir kreieren zeitlose, hygienisch perfektionierte Custom-Tattoos
+            im Herzen von Kamenz.
+
+Buttons:
+  - Termin Buchen
+  - Galerie Entdecken
+
+Scroll-Hinweis: Erfahre mehr
+
+
+## PHILOSOPHIE & VERSPRECHEN
+
+Eyebrow:  Philosophie & Versprechen
+H2:       Hautkunst, die deine Seele spiegelt.
+
+Absatz 1:
+  Der Name AmorsNadel gründet auf einem doppelten Sinnbild:
+  Amor, das unsterbliche, tiefe menschliche Empfinden und die Bindung zu
+  unserer eigenen Lebensspanne — und die Nadel, das unbestechliche Instrument
+  mikroskopischer Präzision, Hygiene und Klarheit.
+
+Absatz 2:
+  Bei uns gleicht kein Motiv dem anderen. Wir lehnen Massenware und kopierte
+  Vorlagen kategorisch ab. Jedes Design wird in enger Zusammenarbeit mit
+  unseren Kunden gezeichnet. Ob majestätisches nordisch-wikingisches Epos,
+  hauchzarte Single-Needle Botanik oder expressionistische Kalligrafie entlang
+  der Wirbelsäule — wir zelebrieren die Verschmelzung deiner Anatomie mit
+  feinster Tinte.
+
+Feature-Liste:
+  - Echte Custom-Anfertigungen
+  - Sterile medizinische Praxis
+  - Haltbare & scharfe Pigmente
+  - Umfassende Begleitpflege
+
+Badge (Bild-Overlay):
+  100% Sterile
+  Kamenz Homestudio
+
+
+## SO ENTSTEHT DEIN TATTOO (Prozess-Bereich)
+
+Eyebrow:  Dein Weg zur Hautkunst
+H2:       So entsteht dein Tattoo
+Subtext:  Von der ersten Idee bis zur abgeheilten Kunst auf deiner Haut –
+          vier sorgfältige Schritte, kompromisslos präzise und hygienisch begleitet.
+
+Schritt 01 – Beratung & Idee
+  Im persönlichen Gespräch erfassen wir deine Vision, Motiv, Größe und Platzierung.
+
+Schritt 02 – Individueller Entwurf
+  Jedes Design wird von Hand gezeichnet und exakt auf deine Anatomie abgestimmt.
+
+Schritt 03 – Präzises Stechen
+  Unter sterilen Bedingungen entsteht dein Motiv mit feinster Nadel- und Linienführung.
+
+Schritt 04 – Heilung & Nachsorge
+  Du erhältst einen detaillierten Pflegeplan für eine makellose, langlebige Abheilung.
+
+
+## HINTER DER NADEL – ARTIST & STUDIO
+
+Eyebrow:  Hinter Der Nadel
+H2:       Künstler & Studio
+Subtext:  Lerne Sergey kennen – die kreative Seele hinter AmorsNadel.
+          Unser exklusives One-Artist-Studio steht für handgezeichnete Präzision,
+          kompromisslose Hygiene und Kunst mit über 20 Jahren Erfahrung.
+
+Zitat (handschriftlich):  mit Tinte und Geduld.
+
+Künstler: Sergey
+Rolle:    Gründer & Master Artist
+
+Bio:
+  Mit über 20 Jahren Erfahrung im Bereich der feinen Nadelkunst gründete Sergey
+  das exklusive „One-Artist-Studio" AmorsNadel. Seine einzigartige Passion liegt
+  im Gestalten hochpräziser Segmente, ausdrucksstarker Blackwork-Muster, lebendiger
+  Porträts und anspruchsvoller Körperkunst. Jedes Werk wird von ihm persönlich
+  gezeichnet und gestochen, um absolute Perfektion und vollkommene Konzentration
+  auf deine Hautkunst zu garantieren.
+
+Stil-Schwerpunkte:
+  - Finelines
+  - Blackwork
+  - Kalligrafie (Calligraphy)
+  - Realismus & Custom Portrait
+  - Wikingische Runen & Mythen
+
+Sprachen:   Deutsch • Englisch • Ukrainisch
+Instagram:  @amors_nadel_
+
+CTA-Link: Deine Tattoo-Idee mit Sergey besprechen
+
+
+## PORTFOLIO-TEASER
+
+Eyebrow: Hautnah Zu Erleben
+H2:      Aktuelle Meisterwerke
+Link:    Gesamtes Portfolio ansehen
+
+
+## KUNDENSTIMMEN
+
+Eyebrow: Kundeneindrücke
+H2:      Kundenstimmen & Heilung
+
+Testimonial 1 – Sarah K.  (Stil: Kalligrafie)
+  „Sergeys Kalligrafie an meiner Wirbelsäule ist ein Meisterwerk. Die feinen
+  Linien sind auch nach Monaten noch messerscharf. Das ganze Studio strahlt eine
+  so warme und beruhigende Atmosphäre aus. Unfassbare Präzision!"
+  – Vor 2 Wochen
+
+Testimonial 2 – Dennis M.  (Stil: Wikingisch / Blackwork)
+  „Wer ein wikingisches oder geometrisches Tattoo will, muss zu Sergey. Er hat
+  mein voriges Tattoo perfekt überarbeitet und einen gigantischen Ärmel gestochen.
+  Spitzenklasse in Beratung, Hygiene und Umsetzung."
+  – Vor 1 Monat
+
+Testimonial 3 – Emilia L.  (Stil: Botanisch Fineline)
+  „Ich habe mein erstes Fineline-Tattoo bei AmorsNadel stechen lassen. Die
+  Aufklärung zur Hygiene und Pflege war erstklassig. Ich habe mich absolut sicher
+  und professionell aufgehoben gefühlt."
+  – Vor 3 Tagen
+
+
+## CTA-BANNER (Erstberatung)
+
+Eyebrow:  Kostenlose Erstberatung
+H2:       Bereit, deine eigene Geschichte unter die Haut zu bringen?
+
+Text:
+  Egal ob du bereits ein fertiges Motiv im Kopf hast oder mit einer unfertigen
+  Idee zu uns kommst. Zusammen entwerfen wir ein Tattoo, das Leben lang begeistert.
+
+Buttons:
+  - Terminanfrage online stellen
+  - Schreib uns eine E-Mail  →  atelier@amorsnadel.de
+
+
+## STANDORT & KONTAKT
+
+Eyebrow:  Besuche Uns
+H2:       Atelier & Standorte
+Text:
+  Das Studio befindet sich im kulturellen Herzen Dresdens (sowie in Kamenz & Zittau).
+  Termine vergeben wir ausschließlich nach vorheriger Vereinbarung. Wir freuen uns,
+  dich in unserer kreativen Welt willkommen zu heißen.
+
+Studio:
+  AmorsNadel Atelier
+  Hauptstraße einfügen
+  Dresden · Kamenz · Zittau
+
+Öffnungszeiten:
+  Mo – Fr   12:00 – 20:00
+  Sa        11:00 – 18:00
+  So        Geschlossen
+
+Direktkontakt:
+  E-Mail:   atelier@amorsnadel.de
+  Telefon:  0174 4312856
+
+
+────────────────────────────────────────────────────────────────────────────────
+GALERIE-SEITE
+────────────────────────────────────────────────────────────────────────────────
+
+Eyebrow:  Haut-Meisterwerke
+H1:       Unsere Galerie
+Text:
+  Jede Tätowierung ist ein Unikat. Schau dir unsere hochauflösenden Abzüge echter
+  Arbeiten an. Klicke auf ein Bild, um Details zu Artist, Größe und Stechzeit
+  zu erfahren.
+
+Zitat (handschriftlich): handgezeichnet.
+
+Filter-Kategorien:
+  Alle | Fineline | Blackwork | Wikingisch | Calligraphy | Realismus | Lettering | Ornamental
+
+Leerstand-Text:  Momentan keine Tattoos in dieser Kategorie gelistet.
+
+Hover-Text (Bild): Klicken für Details & Infos
+
+Portfolio-CTA am Ende:
+  H2:  Gefällt dir einer dieser Stile?
+  Text: Buche direkt ein kostenloses Beratungsgespräch mitsamt Wunschstil-Auswahl.
+        Wir entwerfen dein Wunschmotiv maßgeschneidert und zentimetergenau.
+  Button: Terminanfrage stellen
+
+Lightbox-Metadaten-Labels:
+  Artist: / Größe: / Stechzeit: / Gestochen am:
+  Button: Analoges Motiv anfragen / Zurück
+
+
+────────────────────────────────────────────────────────────────────────────────
+PORTFOLIO-WERKE (data.ts)
+────────────────────────────────────────────────────────────────────────────────
+
+#1 – Wikinger-Wolf & Runen  (Stil: Wikingisch | Artist: Sergey | Unterarm | 11 h | 14.05.2026)
+  Ein kraftvolles Blackwork-Tattoo, in dem ein Wolf nahtlos mit dem Gesicht eines
+  nordischen Kriegers verschmilzt. Ergänzt durch geometrische Akzente, einen
+  Vegvísir-Kompass und schützende Runen – ein mythologisches Statement aus Stärke
+  und Schutz, präzise auf den Unterarm modelliert.
+
+#2 – Wirbelsäulen-Kalligrafie  (Stil: Calligraphy | Rücken/Wirbelsäule | 4,5 h | 28.04.2026)
+  Filigrane, handgezeichnete Schriftkunst entlang der Wirbelsäule. Ein tiefgründiges
+  Statement: „Live the life you have but fight for the one you want". Hochpräzise
+  Linienführung, die jeder Bewegung des Rückens elegant folgt.
+
+#3 – Geometrischer Hirsch  (Stil: Blackwork | Brust groß | 8 h | 11.01.2026)
+  Ein majestätischer Hirschkopf auf der Brust, eingebettet in feine Geometrie und
+  Mondphasen. Sattes Blackwork trifft auf filigranes Dotwork – für einen dramatischen
+  Tiefen-Effekt, der sich symmetrisch über den Brustkorb spannt.
+
+#4 – Lady & Revolver  (Stil: Realismus | Unterarm | 7 h | 02.06.2026)
+  Black-&-Grey-Realismus vom Feinsten: ein ausdrucksstarkes Frauenporträt,
+  kombiniert mit einem detailliert ausgearbeiteten Revolver. Weiche Schattierungen
+  und kontrastreiche Tiefen verleihen dem Unterarm-Motiv echte Dreidimensionalität.
+
+#5 – One Life One Chance  (Stil: Lettering | Wade | 6 h | 19.05.2026)
+  Ausdrucksstarkes Chicano-Lettering „One Life – One Chance", kombiniert mit einem
+  charaktervollen Money-Motiv. Kräftige Schattierungen und saubere Schriftzüge,
+  exakt nach Custom-Stencil auf die Wade übertragen.
+
+#6 – Fineline Bienen-Duo  (Stil: Fineline | 6 x 5 cm | 2,5 h | 10.03.2026)
+  Zwei hauchzarte Bienen in feinster Single-Needle-Technik. Trotz der kleinen Größe
+  (siehe Münze als Referenz) sind feinste Details und realistische Schattierungen
+  klar erkennbar – filigrane Hautkunst mit Liebe zum Detail.
+
+#7 – Vater & Kind Gedenktattoo  (Stil: Fineline | Unterarm | 4 h | 05.04.2026)
+  Ein berührendes Erinnerungstattoo: die Silhouette von Vater und Kind, aus der
+  sich Vögel in den Himmel lösen, gerahmt von den Jahreszahlen 1934–2024. Zarte
+  Linien und sanfte Verläufe machen daraus ein stilles, würdevolles Andenken.
+
+#8 – Ornamentales Mandala  (Stil: Ornamental | Unterbrust/Sternum | 6,5 h | 22.02.2026)
+  Ein symmetrisches Unterbrust-Mandala mit Lotus, floralen Ranken und feinstem
+  Dotwork. Herabfallende Perlenketten und Punktierungen umspielen die Körperkontur
+  und betonen die natürliche Anatomie auf elegante Weise.
+
+
+────────────────────────────────────────────────────────────────────────────────
+BUCHUNGS-SEITE (Terminanfrage)
+────────────────────────────────────────────────────────────────────────────────
+
+Eyebrow:  Online-Buchungsdienst
+H1:       Terminanfrage stellen
+Text:
+  Fülle das Planungsformular bequem aus. Wir prüfen deine Anfrage direkt und senden
+  dir binnen 48 Stunden direkte Vorschläge für deinen Termin.
+
+
+## FORMULAR – ABSCHNITT 1: Körperstelle & Größe
+
+H3: Körperstelle & Größe (Platz)
+Beschreibung: Gib uns eine grobe Orientierung, wohin das Tattoo wandert und
+              welche Dimensionen es einnimmt.
+
+Label: Körperstelle *
+Placeholder: z.B. Rechter Unterarm, Nacken, Wirbelsäule, Knöchel...
+
+Label: Gewünschte Größe *
+Optionen:
+  - Klein (Filigrane Akzente, unter 5 cm)
+  - Mittel (Klassisches Motiv, ca. 10–15 cm)
+  - Groß (Oberschenkel, Rippenbogen, ca. 15–25 cm)
+  - Großprojekt (Kompletter Ärmel, Rücken-Epos)
+
+
+## FORMULAR – ABSCHNITT 2: Daten & Motiv-Idee
+
+H3: Deine Daten & Motiv-Idee
+Beschreibung: Teile uns mit, wie wir dich erreichen können, und beschreibe
+              deine Idee kurz für Sergey.
+
+Felder:
+  Vollständiger Name *       (z.B. Sarah Kaiser)
+  E-Mail-Adresse *           (sarah.kaiser@email.de)
+  Telefonnummer *            (z.B. +49 40 12345678)
+  Motivbeschreibung & Notizen * (Erläutere kurz das Motiv: Symbole, Schriftzüge,
+                                Bedeutung oder Platzierungsdetails...)
+
+Checkbox:
+  Ich stimme zu, dass AmorsNadel meine Formulardaten speichert, um meine Anfrage
+  zu bearbeiten. (Kein Spam, wir schätzen Privatsphäre).
+
+Button:  Anfrage absenden
+
+
+## FORMULAR – ERFOLGSMELDUNG
+
+H3:   Vielen Dank für deine Anfrage!
+Text: Deine Terminanfrage wurde erfolgreich ins System eingetragen.
+      Unser Team meldet sich in Kürze persönlich bei dir.
+
+Referenz-Übersicht:
+  Referenz-Code / Name / Wunschstil / Körperstelle / Größe / E-Mail / Zuständiger Artist
+
+Folgetext:
+  Wir senden dir eine vorläufige Terminbestätigung mitsamt einigen Zeichenentwürfen
+  und Preisschätzungen an [E-Mail].
+
+Button:  Eine weitere Anfrage stellen
+
+
+## SEITENLEISTE – Erreichbarkeit
+
+H3:  Unsere Erreichbarkeit
+
+E-Mail:   atelier@amorsnadel.de
+Telefon:  0174 4312856
+Kapazitäten:
+  Wartezeit ca. 1–3 Wochen bei Vorbesprechung.
+  Spontantermin („Walk-Ins") nur samstags möglich.
+
+Hinweis zu Preisen:
+  Unsere Mindestpreise für Tätowierungen starten bei 80,- EUR zur Abdeckung steriler
+  Einwegmaterialien und Rüstzeiten. Der finale Preis basiert auf Motiv-Komplexität,
+  Einspitz-Präzision und der tatsächlichen Stechzeit.
+
+
+## FAQ (Häufige Fragen)
+
+Eyebrow: Häufige Fragen
+H2:      Fragen & Antworten
+
+F1: Wie vereinbare ich einen Termin bei AmorsNadel?
+A1: Nutze am besten unser interaktives Buchungsformular auf dieser Website. Hier
+    kannst du deinen Wunschstil, die Größe und Platzierung angeben sowie deinen
+    bevorzugten Artist auswählen. Wir melden uns innerhalb von 48 Stunden mit einem
+    konkreten Beratungstermin oder Entwurfsvorschlag bei dir.
+
+F2: Was muss ich vor meinem Tattoo-Termin beachten?
+A2: Trinke 24 Stunden vorher keinen Alkohol, konsumiere keine Drogen und nimm keine
+    blutverdünnenden Medikamente (wie Aspirin) ein. Frühstücke ausgiebig, trinke
+    ausreichend Wasser und komm gerne in bequemer Kleidung, die leicht Zugang zur
+    zu tätowierenden Körperstelle gewährt.
+
+F3: Wie funktioniert die Nachpflege (Aftercare)?
+A3: Nach dem Stechen reinigen wir dein Tattoo steril und bringen einen atmungsaktiven
+    Schutzfilm (Second Skin) an, den du 3 bis 5 Tage tragen kannst. Danach wäschst
+    du das Tattoo vorsichtig mit lauwarmem Wasser und pH-neutraler Seife und cremst
+    es 3-mal täglich dünn mit einer speziellen Tattoo-Salbe ein.
+
+F4: Tätowiert ihr jede Stelle und jeden Entwurf?
+A4: Wir legen allergrößten Wert auf Haltbarkeit und Ästhetik. Manche Körperstellen
+    (wie die Innenseiten der Lippen oder Fußsohlen) tätowieren wir aus Qualitätsgründen
+    nicht. Jeder Entwurf wird von uns individuell gezeichnet — wir kopieren niemals
+    die Arbeiten anderer Künstler.
+
+
+────────────────────────────────────────────────────────────────────────────────
+PIERCING-SEITE
+────────────────────────────────────────────────────────────────────────────────
+
+Eyebrow:  Präzision & Ausdruck
+H1:       Piercing in Dresden
+Lead:     Einzigartiger Körperschmuck, präzise platziert und meisterhaft gestochen –
+          mit über 20 Jahren Erfahrung für deine Sicherheit.
+
+Badge:    Über 20 Jahre Erfahrung
+
+H2: Ausdruck von Individualität & Persönlichkeit
+
+Text 1:
+  Piercing ist weit mehr als nur Schmuck – es ist ein klares Statement, das deine
+  Persönlichkeit und Individualität sichtbar macht. Seit über zwei Jahrzehnten
+  begleite ich meine Kundinnen und Kunden auf diesem Weg und lege dabei allerhöchsten
+  Wert auf kompromisslose Hygiene, maximale Sicherheit und eine anatomisch perfekte,
+  präzise Platzierung.
+
+Text 2:
+  Alle Piercings werden unter absolut sterilen Bedingungen und ausschließlich mit
+  modernsten Einwegmaterialien durchgeführt. Als Erstschmuck kommt bei uns hochwertiger,
+  zertifizierter Chirurgenstahl zum Einsatz. Dieser zeichnet sich durch seine exzellente
+  Verträglichkeit, absolute Biokompatibilität und hervorragende Verheilungsqualität aus.
+
+Hinweis: Sicherer Erstschmuck · Maximale Hygiene standards
+
+
+## PIERCING-ANGEBOT
+
+Eyebrow: Unser Leistungsspektrum
+H2:      Unser Piercing-Angebot
+
+OHRPIERCINGS:
+  Die klassischen und modernen Highlights für dein Ohr – perfekt miteinander
+  kombinierbar für deinen individuellen Curated-Ear-Look.
+
+  Lobe (Ohrläppchen) | Upper Lobe | Helix | Forward Helix
+  Flat | Tragus | Anti-Tragus | Conch
+  Daith | Rook | Snug | Industrial
+
+GESICHTSPIERCINGS:
+  Akzente, die deine Gesichtszüge harmonisch einrahmen und den Fokus auf deine
+  natürliche Ausstrahlung legen.
+
+  Augenbraue (Eyebrow) | Bridge | Nostril | High Nostril
+  Septum | Medusa | Monroe | Madonna
+  Labret | Vertical Labret | Ashley | Cheek Piercing
+
+ZUNGENPIERCINGS:
+  Klassisch | Venom | Surface Tongue
+
+KÖRPERPIERCINGS:
+  Bauchnabel | Brustwarze | Surface | Dermal Anchor
+
+TUNNEL & DEHNUNGEN:
+  Professionelles Dehnen von Ohrlöchern, sanftes Einsetzen und Erweitern von Tunneln
+  inklusive umfassender Beratung zu Pflege und gesunder Heilung.
+
+
+## WARUM KUNDINNEN & KUNDEN MICH WÄHLEN
+
+Eyebrow: Qualität & Sicherheit
+H2:      Warum Kundinnen & Kunden mich wählen
+
+  Über 20 Jahre Erfahrung
+    Jahrzehntelange Routine und handwerkliche Perfektion für absolut präzise Ergebnisse.
+  Sterile Arbeitsweise
+    Kompromissloser Einsatz von sterilen Einwegmaterialien und modernsten Prozeduren.
+  Chirurgenstahl als Erstschmuck
+    Ausschließlich hochwertiger, hautverträglicher und biokompatibler Erstschmuck.
+  Individuelle Beratung
+    Anatomische Beratung zur optimalen Positionierung passend zu deinem Körper.
+  Ausführliche Pflegehinweise
+    Detaillierter, schriftlicher Pflegeplan für eine komplikationsfreie und schnelle Abheilung.
+  Angenehme Atmosphäre
+    Ruhe, Empathie und Geduld in unserem einladenden privaten Atelier – ganz ohne Hektik.
+
+Zitat:
+  „Egal ob erstes Piercing oder neues Projekt – mein Ziel ist ein sauberes,
+  professionelles Ergebnis, das perfekt zu dir passt und optimal verheilt."
+
+CTA:
+  Eyebrow: Dein nächstes Schmuckstück
+  H3:      Bereit für ein neues Piercing?
+  Text:    Vereinbare einen Termin bei uns für dein neues Piercing oder lass dich
+           unverbindlich zur genauen Positionierung beraten. Wir freuen uns darauf,
+           dich bei uns im Atelier zu begrüßen.
+  Button:  Terminanfrage stellen
+
+
+────────────────────────────────────────────────────────────────────────────────
+PERMANENT MAKE-UP-SEITE
+────────────────────────────────────────────────────────────────────────────────
+
+Eyebrow:  Schönheit, die bleibt
+H1:       Permanent Make-up in Dresden
+Lead:     Natürliche Schönheit dauerhaft unterstreichen, Form korrigieren und
+          jeden Morgen wertvolle Zeit sparen.
+
+Badge:    Über 20 Jahre Erfahrung
+
+H2: Deine natürliche Ausstrahlung im Fokus
+
+Text 1:
+  Schönheit sollte nicht jeden Morgen Zeit kosten. Permanent Make-up ermöglicht es,
+  die natürlichen Gesichtszüge sanft zu betonen, kleine Unregelmäßigkeiten zu
+  korrigieren und jederzeit frisch und gepflegt auszusehen.
+
+Text 2:
+  Seit über 20 Jahren beschäftige ich mich leidenschaftlich mit Permanent Make-up
+  und helfe meinen Kundinnen dabei, ihre persönliche Schönheit bestmöglich zur
+  Geltung zu bringen. Mein Ziel ist stets ein harmonisches, ästhetisches und vor
+  allem individuelles Ergebnis, das perfekt zu der Anatomie deines Gesichts passt.
+
+Zitat:
+  „Ich arbeite ausschließlich mit modernsten und besonders schonenden Techniken,
+  certified hochwertigen Pigmenten und lege allerhöchsten Wert auf Präzision,
+  Hygiene und Natürlichkeit."
+
+Kennzahlen:  100% Präzision | Premium Pigmente | Steril Hygiene
+
+
+## BEHANDLUNGEN
+
+Eyebrow: Unsere Behandlungen
+H2:      Präzise Lippen-, Brauen- & Lid-Pigmentierung
+
+AUGENBRAUEN:
+  Augenbrauen geben dem Gesicht Ausdruck und Charakter. Mit Permanent Make-up
+  können Form, Dichte und Symmetrie der Augenbrauen optimiert werden.
+
+  Powder Brows:
+    Die beliebteste moderne Technik. Durch eine sanfte Schattierung entsteht ein
+    natürlicher, weicher Puder-Effekt, wie mit Augenbrauenpuder geschminkt.
+  Besonders geeignet für:
+    - dünne oder ungleichmäßige Brauen
+    - Kleine Lücken im Haarwuchs
+    - Präzise Wunsch-Formkorrekturen
+    - Mehr Ausdruck & Definition
+  Ergebnis: wirkt weich, elegant und harmonisch.
+
+AUGENLIDER:
+  Permanent Make-up der Augenlider verleiht den Augen strahlenden Ausdruck und
+  spart dir täglich das zeitintensive Schminken.
+
+  Klassischer Eyeliner:
+    Feine und elegante Linie am Wimpernkranz. Die Augen wirken ausdrucksstark
+    und die Wimpern dichter.
+  Eyeliner mit Schattierung:
+    Weiche Lidschattierung für einen elegant-femininen Look, ähnlich professionellem
+    Lidschatten.
+  Eyeliner mit Farb-Akzent:
+    Farbige Schattierung, farblich exakt abgestimmt auf deine Augenfarbe und deinen Typ.
+  Wimpernkranzverdichtung:
+    Pigmentierung direkt zwischen den Wimpern. Wirkt extrem natürlich und verdichtet
+    optisch das Haar.
+  Ergebnis: Perfekter Blick auch ganz ohne herkömmliches Make-up.
+
+LIPPEN:
+  Lippen-Pigmentierung sorgt für dauerhaft frische Farbe, makellose Konturen und
+  mehr optisches Volumen ganz ohne Verwischen.
+
+  Kontur & Schattierung:
+    Die natürliche Form wird elegant betont und sanft einwärts verlaufend einschattiert.
+    Wirkt sehr dezent.
+  Vollschattierung:
+    Die gesamte Lippe wird pigmentiert. Das optische Endergebnis ähnelt einem feinen
+    Lippenstift oder Lip Tint.
+  Kontur mit Vollschattierung:
+    Klare Konturen mit vollständig ausgefüllter Lippenfarbe. Wirkt elegant wie perfekt
+    geschminkt.
+  Aquarell-Lips:
+    Besonders softe, transparente Farbverläufe ohne harte Ränder für extrem viel
+    Frische und Natürlichkeit.
+  Ergebnis: Kaschiert kleine Asymmetrien und schenkt neue Vitalität.
+
+
+## WARUM KUNDINNEN MICH WÄHLEN
+
+Eyebrow: Präzision & Vertrauen
+H2:      Warum Kundinnen mich wählen
+
+  Über 20 Jahre Erfahrung
+    Jahrzehntelange Erfahrung im Bereich der feinen Gesichtspigmentierung.
+  Individuelle Beratung
+    Jedes Gesicht ist anders. Wir stimmen Form und Pigmente exakt auf deinen Typ ab.
+  Natürliche Ergebnisse
+    Kein Maskeneffekt. Mein Ziel ist die harmonische Unterstützung deiner Schönheit.
+  Moderne Techniken
+    Schonende Verfahren und exakteste Handarbeit für minimale Hautbelastung.
+  Höchste Hygiene
+    Kompromisslos sterile Materialien und verlässliche Desinfektion nach Studio-Standards.
+  Hochwertige Pigmente
+    Zertifizierte, verträgliche Farben, die langfristig farbstabil und schön bleiben.
+  Persönliche Betreuung
+    Detaillierter Nachsorgeplan und verlässliche Begleitung bis zum fertig abgeheilten
+    Ergebnis.
+  Entspannte Atmosphäre
+    Ruhige 1-zu-1-Sitzungen in unserem privaten, modernen Atelier.
+
+Zitat:
+  „Mein Ziel ist es nicht, Ihr Gesicht zu verändern, sondern Ihre natürliche
+  Schönheit dauerhaft zu unterstreichen."
+
+CTA:
+  Eyebrow: Deine unverbindliche Anfrage
+  H3:      Lust auf ein frisches, dauerhaft gepflegtes Gefühl?
+  Text:    Lass dich ganz unverbindlich und persönlich von uns beraten.
+           Wir besprechen deine Formkorrekturen und finden die perfekte Nuance.
+  Button:  Terminanfrage stellen
+
+
+────────────────────────────────────────────────────────────────────────────────
+KURSE-SEITE (AmorsNadel Academy)
+────────────────────────────────────────────────────────────────────────────────
+
+Eyebrow:  AmorsNadel Academy
+H1:       Professionelle Ausbildungen
+Lead:     Starte deine erfolgreiche Karriere in der Body-Art- und Kosmetik-Branche.
+          Lerne von den Besten in exklusiver und praxisnaher Atelier-Atmosphäre.
+
+Tabs:  Tattoo-Ausbildung | PMU-Ausbildung
+
+
+## TATTOO-AUSBILDUNG – GRUNDKURS (5 Tage)
+
+Badge:   5 Tage Intensiv-Grundkurs
+H2:      TÄTOWIERUNGS-AUSBILDUNG – GRUNDKURS
+Subline: Starte deine Karriere als Tattoo Artist
+
+Text:
+  Du möchtest das Tätowieren professionell erlernen und die wichtigsten Grundlagen
+  direkt in einer praxisorientierten Ausbildung vermittelt bekommen? Dann ist dieser
+  intensive 5-Tage-Grundkurs genau das Richtige für dich. Der Kurs richtet sich an
+  Anfänger ohne Vorkenntnisse sowie an Personen, die ihr Wissen strukturiert aufbauen
+  und erste praktische Erfahrungen sammeln möchten.
+
+Varianten:
+  Einzelunterricht – 5 Tage hocheffiziente Intensivausbildung im 1-zu-1-Format
+                     für maximale Lernkurve.
+  Gruppenkurs     – Kompakte, interaktive Lernstruktur in exklusiven Kleingruppen
+                     bis maximal 5 Personen.
+
+KURSPROGRAMM (5 Tage):
+
+  TAG 1 – Grundlagen & Arbeitsplatz
+    • Hygiene und Arbeitssicherheit im Studio
+    • Vorbereitung und Desinfektion des Arbeitsplatzes
+    • Aufbau einer professionellen Tattoo-Station
+    • Arbeitsabläufe im laufenden Studiobetrieb
+    • Auswahl und Qualitätsprüfung der Arbeitsmaterialien
+
+  TAG 2 – Theorie der Tätowierung
+    • Aufbau und Reaktionen der Hautschichten
+    • Wie Pigmente materialsicher eingebracht werden
+    • Heilungsprozess und Wundversorgung
+    • Maschinenarten und technische Unterschiede
+    • Nadeln, Loops und ihre präzisen Einsatzbereiche
+    • Richtige Handhaltung & Maschinenführung
+
+  TAG 3 – Design & Vorbereitung
+    • Auswahl und Analyse geeigneter Motive
+    • Erstellung und Aufbereitung von Tattoo-Entwürfen
+    • Größenanpassung an Körperproportionen & Platzierung
+    • Erstellung präziser Schablonen (Stencil)
+    • Fachgerechte Übertragung des Motivs auf die Haut
+
+  TAG 4 – Praktische Übungen
+    • Sichere Linienführung auf realer Kunsthaut
+    • Einwandfreie Schattierungstechniken
+    • Gleichmäßige Farbflächen füllen
+    • Arbeiten mit wechselnden Nadelgruppen
+    • Praktische Übungen auf Kunsthaut unter Anleitung
+    • Detaillierte Analyse und Korrektur typischer Fehler
+
+  TAG 5 – Arbeiten am Modell  ★ Live Praxis Modell
+    • Vollständig der praktischen Arbeit gewidmet
+    • Arbeitsplatzvorbereitung & Kundenberatung
+    • Vorzeichnung & exaktes Anbringen des Stencils
+    • Durchführung einer Tätowierung am realen Modell
+    • Individuelle 1:1 Betreuung durch den Ausbilder
+
+IM KURSPREIS ENTHALTEN:
+  • Kunsthaut für alle Übungen
+  • Sämtliche Verbrauchsmaterialien
+  • Arbeitsmaterialien im Kurs
+  • Nutzung der Geräte & Ausrüstung
+  • Persönliche Betreuung
+  • Offizielles Teilnahmezertifikat
+
+  Alle Materialien für die Ausbildung werden vollständig vom Schulungszentrum
+  bereitgestellt. Lediglich das Modell für den fünften Ausbildungstag wird vom
+  Kursteilnehmer selbst organisiert.
+
+WARUM DIESEN KURS WÄHLEN?
+  ✓ Praxisorientierter, intensiver Unterricht auf Augenhöhe
+  ✓ Individuelle Betreuung durch erfahrene Dozenten
+  ✓ Exklusives Lernen in Kleingruppen für maximalen Fokus
+  ✓ Direkte Arbeit mit professionellem, modernem Equipment
+  ✓ Echtes Lernen inmitten einer authentischen, professionellen Studioatmosphäre
+
+  Sichere dir eine solide, seriöse Grundlage für einen fabelhaften und
+  selbstbewussten Einstieg in die weltweite Tattoo-Branche.
+
+
+## PMU-AUSBILDUNG – INTENSIVKURS (7 Tage)
+
+Badge:   7 Tage Profi-Intensivkurs
+H2:      PERMANENT MAKE-UP AUSBILDUNG – INTENSIVKURS
+Subline: Starte deine Karriere als Permanent-Make-up Artist
+
+Text:
+  Dieser intensive 7-Tage-Grundkurs vermittelt verlässlich alle wichtigen theoretischen
+  und praktischen Kenntnisse für den anspruchsvollen, professionellen Einstieg in die
+  Welt des Permanent Make-ups. Der Kurs richtet sich an motivierte Anfänger ohne
+  jegliche Vorkenntnisse sowie an ambitionierte Teilnehmer, die sich fundiertes Wissen
+  in den Bereichen Augenbrauen-, Lippen- und Lidpigmentierung aneignen möchten.
+
+Varianten:
+  Einzelunterricht – Exklusive Intensivschulung mit direkter, individueller Begleitung
+                     und Typenanalyse.
+  Gruppenkurs     – Ausbildung in fokussierten, inspirierenden Gruppen bis maximal
+                     5 Personen.
+
+KURSPROGRAMM (7 Tage):
+
+  TAG 1 – Grundlagen & Hygiene
+    • Arbeitssicherheit · Arbeitsplatzaufbau · Gerätekunde
+    • Materialauswahl · Kundenberatung · Kontraindikationen
+    • Einverständnis / Doku
+
+  TAG 2 – Haut, Pigmente & Farblehre
+    • Hautanatomie · Pigmenteinbringung · Hauttypen/Zustände
+    • Gezielte Farblehre · Pigmentauswahl · Farbkorrekturen
+    • Nachpflege-Phasen
+
+  TAG 3 – Augenbrauen
+    • Gesichtsanalyse · Ausmessen / Vorzeichnen · Symmetrie & Design
+    • Passendes Pigment · Powder Brows Theorie · Gerätetechnik
+    • Kunsthaut-Übung
+
+  TAG 4 – Lippen & Lid
+    • Lippen-Anatomie · Kontur & Schattierung · Lippen-Vollschattierung
+    • Elegante Aquarell Lips · Wimpernkranz · Klassischer Lidstrich
+    • Lid-Schattierung
+
+  TAG 5 – Modell: Brauen  (Praxismodell)
+    • Modell-Vorbereitung · Exakte Vorzeichnung · Pigmentabstimmung
+    • Modell-Augenbrauen · Pigmentierung live · Aufsicht & Feedback
+
+  TAG 6 – Modell: Lippen  (Praxismodell)
+    • Platzeinrichtung · Lippen-Vorzeichnung · Pigmentbestimmung
+    • Lippenpigmentierung · Live-Betreuung · Ansprüche & Feinschliff
+
+  TAG 7 – Modell: Lider  (Praxismodell)
+    • Lid-Vorzeichnung · Modell-Lidstrich · Lid-Pigmentierung
+    • Präzise Korrekturen · Heilungstätigkeit · Abschlussanalyse
+    • Zertifikatsübergabe
+
+IM KURSPREIS ENTHALTEN:
+  • Kunsthaut für alle Übungen
+  • Sämtliche Verbrauchsmaterialien
+  • Arbeitsmaterialien im Kurs
+  • Gerätenutzung des Zentrums
+  • Ausführliche Schulungsunterlagen
+  • Offizielles Teilnahmezertifikat
+
+  Alle benötigten High-End-Materialien und Profi-Arbeitsmittel werden vollständig
+  vom Schulungszentrum bereitgestellt. Lediglich die persönlichen Modelle für die
+  drei Praxistage werden vom Kursteilnehmer selbst organisiert.
+
+WARUM DIESEN KURS WÄHLEN?
+  ✓ Strenge praxis- und kundenorientierte Ausbildung
+  ✓ Ausbildung in sehr kleinen, überschaubaren Lerngruppen
+  ✓ Engagierte, individuelle Betreuung auch bei schwierigen Techniken
+  ✓ Arbeiten mit erstklassigen, professionellen Feinst-Geräten
+  ✓ Lernen in echter, entspannter und professioneller Studioatmosphäre
+
+  Schlage eine solide Brücke für den erfolgreichen Einstieg in den extrem
+  lukrativen Permanent-Make-up-Sektor.
+
+Schluss-Zitat:
+  „Nach Abschluss des Kurses verfügst du über ein fundiertes, zertifiziertes
+  Fachverständnis und die notwendigen praktischen Erfahrungen, um deine Fähigkeiten
+  gezielt und erfolgreich weiterzuentwickeln."
+
+CTA:
+  Eyebrow: Academy Platz sichern
+  H3:      Konntest du dich entscheiden?
+  Text:    Sende uns eine unverbindliche Anfrage für deine Wunsch-Ausbildung.
+           Wir beraten dich gern zur optimalen Durchführung, den Terminen und
+           Preisstrukturen.
+  Button:  Ausbildungsplatz anfragen
+
+
+────────────────────────────────────────────────────────────────────────────────
+FOOTER
+────────────────────────────────────────────────────────────────────────────────
+
+Studio-Beschreibung:
+  Dein meisterhaftes Tätowieratelier im kulturellen Herzen Zittaus, Kamens, Dresdens.
+  Wir vereinen historische Präzision mit modernster Hautkunst. Jedes Tattoo ist ein
+  maßgeschneidertes, hygienisch makelloses Meisterwerk, das deine Geschichte erzählt.
+
+Soziale Netzwerke:  Instagram · Facebook
+
+NAVIGATION:
+  Startseite (Home) | Portfolio Galerie | Permanent Make-up |
+  Piercing | Ausbildung & Kurse | Terminanfrage stellen
+
+KONTAKT:
+  AmorsNadel Atelier
+  Straße einfügen
+  Kamenz, Zittau, Dresden
+  Tel:   0174 4312856
+  Mail:  atelier@amorsnadel.de
+
+ÖFFNUNGSZEITEN:
+  Mo – Fr:  12:00 – 20:00
+  Sa:       11:00 – 18:00
+  So:       Geschlossen
+  → NUR MIT TERMIN
+
+COPYRIGHT:
+  © [aktuelles Jahr] AmorsNadel Tattoo. Gemacht mit Tinte und Geduld.
+  Alle Rechte vorbehalten.
+
+Links:  Impressum · Datenschutz · Nach oben
+
+================================================================================
+Ende der Textdatei
+================================================================================

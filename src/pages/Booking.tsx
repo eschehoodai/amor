@@ -32,7 +32,7 @@ export const Booking: FC = () => {
     style: preselected?.preselectedStyle || 'Fineline',
     placement: '',
     size: 'Mittel (ca. 10-15 cm)',
-    artist: preselected?.preselectedArtist || 'Sergej',
+    artist: preselected?.preselectedArtist || 'Sergey',
     name: '',
     email: '',
     phone: '',
@@ -75,7 +75,7 @@ export const Booking: FC = () => {
   ];
 
   const artistOptions = [
-    { value: 'Sergej', label: 'Sergej (Studio-Inhaber & Master Artist)' },
+    { value: 'Sergey', label: 'Sergey (Studio-Inhaber & Master Artist)' },
   ];
 
   const validateForm = (): boolean => {
@@ -213,7 +213,7 @@ export const Booking: FC = () => {
                         <span className="font-mono text-xs text-old-gold bg-old-gold/10 border border-old-gold/20 px-2.5 py-0.5 font-bold">2.</span>
                         <h3 className="font-sans text-xl font-semibold text-soft-white">Deine Daten &amp; Motiv-Idee</h3>
                       </div>
-                      <p className="text-body text-soft-white/75">Teile uns mit, wie wir dich erreichen können, und beschreibe deine Idee kurz für Sergej.</p>
+                      <p className="text-body text-soft-white/75">Teile uns mit, wie wir dich erreichen können, und beschreibe deine Idee kurz für Sergey.</p>
                     </div>
 
                     <div className="space-y-4">

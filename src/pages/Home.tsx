@@ -25,7 +25,7 @@ export const Home: FC = () => {
         <div className="absolute inset-0 z-0">
           <img
             src="/images/tattoo-kuenstler-sergej-bei-der-arbeit.png"
-            alt="Tattoo-Künstler Sergej bei der Arbeit im AmorsNadel Studio"
+            alt="Tattoo-Künstler Sergey bei der Arbeit im AmorsNadel Studio"
             className="w-full h-full object-cover filter brightness-[0.22] contrast-[1.15] scale-105 animate-pulse duration-10000"
           />
           {/* Subtle color gradients */}
@@ -52,7 +52,7 @@ export const Home: FC = () => {
               transition={{ delay: 0.3, duration: 0.8 }}
               className="font-mono text-eyebrow uppercase tracking-[0.4em] text-old-gold"
             >
-              Meisterhafte Präzision &amp; Haute-Couture der Haut
+              Tattoo · Piercing · Permanent Make-up · Kamenz &amp; Dresden
             </motion.p>
             
             <motion.h1
@@ -81,7 +81,7 @@ export const Home: FC = () => {
               transition={{ delay: 0.9, duration: 1 }}
               className="max-w-xl mx-auto text-lead text-soft-white/85 font-light tracking-wide mt-2"
             >
-              Wo tiefes Gefühl auf makellose Symmetrie trifft. Wir kreieren zeitlose, hygienisch perfektionierte Custom-Tattoos im Herzen von Kamenz.
+              Individuelle Tattoos, von Hand gezeichnet und sauber gestochen. Über 20 Jahre Erfahrung in Kamenz, Dresden und Umgebung – auf Wunsch komme ich auch mobil zu dir.
             </motion.p>
           </div>
 
@@ -129,27 +129,25 @@ export const Home: FC = () => {
                 Philosophie &amp; Versprechen
               </span>
               <h2 className="font-display text-3xl sm:text-4xl md:text-5xl font-light text-soft-white tracking-wide">
-                Hautkunst, die deine <span className="italic font-normal text-old-gold">Seele</span> spiegelt.
+                <span className="font-hand text-old-gold">Amors<span className="text-tattoo-red">Nadel</span></span> – wo deine Geschichte unter die Haut geht
               </h2>
             </div>
-            
+
             <p className="text-body text-soft-white/80 font-light">
-              Der Name <span className="text-old-gold font-hand text-xl align-middle">AmorsNadel</span> gründet auf einem doppelten Sinnbild:
-              <strong> Amor</strong>, das unsterbliche, tiefe menschliche Empfinden und die Bindung zu unserer eigenen Lebensspanne — und 
-              <strong> die Nadel</strong>, das unbestechliche Instrument mikroskopischer Präzision, Hygiene und Klarheit.
+              <em className="text-old-gold not-italic font-medium">Amor</em> steht für Gefühl, <em className="text-old-gold not-italic font-medium">die Nadel</em> für Präzision und Hygiene. Aus beidem entsteht dein ganz persönliches Custom-Tattoo – individuell gezeichnet, sauber gestochen, perfekt auf deinen Körper abgestimmt.
             </p>
 
             <p className="text-body text-soft-white/80 font-light">
-              Bei uns gleicht kein Motiv dem anderen. Wir lehnen Massenware und kopierte Vorlagen kategorisch ab. Jedes Design wird in enger Zusammenarbeit mit unseren Kunden gezeichnet. Ob majestätisches nordisch-wikingisches Epos, hauchzarte Single-Needle Botanik oder expressionistische Kalligrafie entlang der Wirbelsäule — wir zelebrieren die Verschmelzung deiner Anatomie mit feinster Tinte.
+              Du findest mich in <strong className="text-soft-white">Kamenz</strong>, <strong className="text-soft-white">Dresden</strong> und Umgebung – und auf Wunsch komme ich als mobiler Tätowierer auch zu dir.
             </p>
 
             {/* Icons list */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-4 text-body text-soft-white/85">
               {[
                 { icon: '016-tattoo', label: 'Echte Custom-Anfertigungen' },
-                { icon: '049-sterilizer', label: 'Sterile medizinische Praxis' },
+                { icon: '007-license', label: 'Über 20 Jahre Erfahrung' },
                 { icon: '020-ink', label: 'Haltbare & scharfe Pigmente' },
-                { icon: '015-lotion', label: 'Umfassende Begleitpflege' },
+                { icon: '008-catalog', label: 'Ich biete auch Tattoo- & Permanent-Make-up-Kurse an' },
               ].map((feature) => (
                 <div key={feature.label} className="flex items-center space-x-3 group">
                   <div className="h-10 w-10 rounded-full bg-surface-dark border border-old-gold/30 flex items-center justify-center shrink-0 group-hover:border-old-gold/60 transition-colors">
@@ -166,15 +164,18 @@ export const Home: FC = () => {
             <div className="relative w-full max-w-[340px] aspect-[4/5] border border-old-gold/20 p-2 z-10 bg-surface-dark">
               <img
                 src="/images/tattoo-kuenstler-sergej-maori-tribal.png"
-                alt="Sergej sticht ein Maori-Tribal-Tattoo bei AmorsNadel"
+                alt="Sergey sticht ein Maori-Tribal-Tattoo bei AmorsNadel"
                 className="w-full h-full object-cover grayscale brightness-95 hover:grayscale-0 transition-all duration-700"
               />
               
               {/* Overlapping Badge */}
-              <div className="absolute -bottom-6 -left-6 bg-ink-black border border-old-gold/40 px-5 py-4 shrink-0 max-w-[170px] space-y-1 block shadow-lg">
-                <span className="block font-display text-lg text-old-gold leading-none font-semibold">100% Sterile</span>
-                <span className="block font-mono text-eyebrow uppercase tracking-wider text-soft-white/60">Kamenz Homestudio</span>
-              </div>
+              <Link
+                to="/buchung"
+                className="absolute -bottom-6 -left-6 bg-ink-black border border-old-gold/40 hover:border-old-gold px-5 py-4 shrink-0 max-w-[190px] space-y-1 block shadow-lg transition-colors group"
+              >
+                <span className="block font-display text-lg text-old-gold leading-none font-semibold">Kostenlose Beratung</span>
+                <span className="block font-mono text-eyebrow uppercase tracking-wider text-soft-white/60 group-hover:text-soft-white/90 transition-colors">Termin in 48&nbsp;Std. · jetzt anfragen</span>
+              </Link>
             </div>
           </div>
 
@@ -224,7 +225,7 @@ export const Home: FC = () => {
           <span className="font-mono text-eyebrow uppercase tracking-[0.3em] text-tattoo-red">Hinter Der Nadel</span>
           <h2 className="font-display text-4xl sm:text-5xl font-light text-soft-white">Künstler &amp; Studio</h2>
           <p className="text-body text-soft-white/80 max-w-xl mx-auto font-light">
-            Lerne Sergej kennen – die kreative Seele hinter AmorsNadel. Unser exklusives One-Artist-Studio steht für handgezeichnete Präzision, kompromisslose Hygiene und Kunst mit über 20 Jahren Erfahrung.
+            Ich bin Sergey, Tätowierer und Gründer von AmorsNadel in Kamenz &amp; Dresden. In meinem Studio bekommst du handgezeichnete Tattoos, kompromisslose Hygiene und über 20 Jahre Erfahrung – alles aus einer Hand.
           </p>
           <div className="pt-2 relative flex flex-col items-center">
             <OrnamentDivider className="max-w-xs text-old-gold mx-auto" />
@@ -269,7 +270,7 @@ export const Home: FC = () => {
                   <span className="font-mono text-eyebrow uppercase tracking-widest text-tattoo-red">
                     {artist.role}
                   </span>
-                  <h3 className="font-hand text-3xl sm:text-4xl text-soft-white">
+                  <h3 className="font-display text-3xl sm:text-4xl text-soft-white">
                     {artist.name}
                   </h3>
                 </div>
@@ -447,7 +448,7 @@ export const Home: FC = () => {
           </div>
           
           <p className="text-body text-soft-white/80 max-w-xl mx-auto font-light">
-            Egal ob du bereits ein fertiges Motiv im Kopf hast oder mit einer unfertigen Idee zu uns kommst. Zusammen entwerfen wir ein Tattoo, das Leben lang begeistert.
+            Egal ob du bereits ein fertiges Motiv im Kopf hast oder mit einer unfertigen Idee zu uns kommst. Zusammen entwerfen wir ein Tattoo, das dich dein Leben lang begeistert.
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center gap-4 pt-4">
@@ -474,7 +475,7 @@ export const Home: FC = () => {
           <div className="space-y-4">
             <h2 className="font-display text-3xl font-light text-soft-white">Atelier &amp; Standorte</h2>
             <p className="text-body text-soft-white/80 font-light">
-              Das Studio befindet sich im kulturellen Herzen Dresdens (sowie in Kamenz &amp; Zittau). Termine vergeben wir ausschließlich nach vorheriger Vereinbarung. Wir freuen uns, dich in unserer kreativen Welt willkommen zu heißen.
+              Mein Studio findest du in Kamenz und Dresden – auf Wunsch komme ich auch mobil zu dir. Ich arbeite ausschließlich nach Termin, damit ich mir für dich und dein Motiv die volle Zeit nehmen kann. Stell einfach deine Anfrage, und wir finden gemeinsam deinen Wunschtermin.
             </p>
           </div>
         </div>

@@ -7,7 +7,7 @@ export const TATTOO_PORTFOLIO: TattooItem[] = [
     style: 'Wikingisch',
     imageUrl: '/images/wikinger-wolf-krieger-runen-tattoo.png',
     description: 'Ein kraftvolles Blackwork-Tattoo, in dem ein Wolf nahtlos mit dem Gesicht eines nordischen Kriegers verschmilzt. Ergänzt durch geometrische Akzente, einen Vegvísir-Kompass und schützende Runen – ein mythologisches Statement aus Stärke und Schutz, präzise auf den Unterarm modelliert.',
-    artist: 'Sergej',
+    artist: 'Sergey',
     size: 'Unterarm',
     duration: '11 Stunden (2 Sessions)',
     date: '14. Mai 2026'
@@ -18,7 +18,7 @@ export const TATTOO_PORTFOLIO: TattooItem[] = [
     style: 'Calligraphy',
     imageUrl: '/images/wirbelsaeule-kalligrafie-schriftzug-tattoo.png',
     description: 'Filigrane, handgezeichnete Schriftkunst entlang der Wirbelsäule. Ein tiefgründiges Statement: "Live the life you have but fight for the one you want". Hochpräzise Linienführung, die jeder Bewegung des Rückens elegant folgt.',
-    artist: 'Sergej',
+    artist: 'Sergey',
     size: 'Rücken (Wirbelsäule)',
     duration: '4.5 Stunden',
     date: '28. April 2026'
@@ -29,7 +29,7 @@ export const TATTOO_PORTFOLIO: TattooItem[] = [
     style: 'Blackwork',
     imageUrl: '/images/geometrisches-hirsch-brust-tattoo.png',
     description: 'Ein majestätischer Hirschkopf auf der Brust, eingebettet in feine Geometrie und Mondphasen. Sattes Blackwork trifft auf filigranes Dotwork – für einen dramatischen Tiefen-Effekt, der sich symmetrisch über den Brustkorb spannt.',
-    artist: 'Sergej',
+    artist: 'Sergey',
     size: 'Brust (groß)',
     duration: '8 Stunden',
     date: '11. Januar 2026'
@@ -40,7 +40,7 @@ export const TATTOO_PORTFOLIO: TattooItem[] = [
     style: 'Realismus',
     imageUrl: '/images/realistisches-frauenportrait-revolver-unterarm-tattoo.png',
     description: 'Black-&-Grey-Realismus vom Feinsten: ein ausdrucksstarkes Frauenporträt, kombiniert mit einem detailliert ausgearbeiteten Revolver. Weiche Schattierungen und kontrastreiche Tiefen verleihen dem Unterarm-Motiv echte Dreidimensionalität.',
-    artist: 'Sergej',
+    artist: 'Sergey',
     size: 'Unterarm',
     duration: '7 Stunden',
     date: '02. Juni 2026'
@@ -51,7 +51,7 @@ export const TATTOO_PORTFOLIO: TattooItem[] = [
     style: 'Lettering',
     imageUrl: '/images/chicano-lettering-one-life-one-chance-tattoo.png',
     description: 'Ausdrucksstarkes Chicano-Lettering "One Life – One Chance", kombiniert mit einem charaktervollen Money-Motiv. Kräftige Schattierungen und saubere Schriftzüge, exakt nach Custom-Stencil auf die Wade übertragen.',
-    artist: 'Sergej',
+    artist: 'Sergey',
     size: 'Wade',
     duration: '6 Stunden',
     date: '19. Mai 2026'
@@ -62,7 +62,7 @@ export const TATTOO_PORTFOLIO: TattooItem[] = [
     style: 'Fineline',
     imageUrl: '/images/fineline-bienen-tattoo.png',
     description: 'Zwei hauchzarte Bienen in feinster Single-Needle-Technik. Trotz der kleinen Größe (siehe Münze als Referenz) sind feinste Details und realistische Schattierungen klar erkennbar – filigrane Hautkunst mit Liebe zum Detail.',
-    artist: 'Sergej',
+    artist: 'Sergey',
     size: '6 x 5 cm',
     duration: '2.5 Stunden',
     date: '10. März 2026'
@@ -73,7 +73,7 @@ export const TATTOO_PORTFOLIO: TattooItem[] = [
     style: 'Fineline',
     imageUrl: '/images/vater-und-kind-gedenktattoo-silhouette.png',
     description: 'Ein berührendes Erinnerungstattoo: die Silhouette von Vater und Kind, aus der sich Vögel in den Himmel lösen, gerahmt von den Jahreszahlen 1934–2024. Zarte Linien und sanfte Verläufe machen daraus ein stilles, würdevolles Andenken.',
-    artist: 'Sergej',
+    artist: 'Sergey',
     size: 'Unterarm',
     duration: '4 Stunden',
     date: '05. April 2026'
@@ -84,7 +84,7 @@ export const TATTOO_PORTFOLIO: TattooItem[] = [
     style: 'Ornamental',
     imageUrl: '/images/mandala-ornament-unterbrust-tattoo.png',
     description: 'Ein symmetrisches Unterbrust-Mandala mit Lotus, floralen Ranken und feinstem Dotwork. Herabfallende Perlenketten und Punktierungen umspielen die Körperkontur und betonen die natürliche Anatomie auf elegante Weise.',
-    artist: 'Sergej',
+    artist: 'Sergey',
     size: 'Unterbrust / Sternum',
     duration: '6.5 Stunden',
     date: '22. Februar 2026'
@@ -94,9 +94,9 @@ export const TATTOO_PORTFOLIO: TattooItem[] = [
 export const ARTISTS: Artist[] = [
   {
     id: 'sergej',
-    name: 'Sergej',
+    name: 'Sergey',
     role: 'Gründer & Master Artist',
-    bio: 'Mit über 20 Jahren Erfahrung im Bereich der feinen Nadelkunst gründete Sergej das exklusive „One-Artist-Studio“ AmorsNadel. Seine einzigartige Passion liegt im Gestalten hochpräziser Segmente, ausdrucksstarker Blackwork-Muster, lebendiger Porträts und anspruchsvoller Körperkunst. Jedes Werk wird von ihm persönlich gezeichnet und gestochen, um absolute Perfektion und vollkommene Konzentration auf deine Hautkunst zu garantieren.',
+    bio: 'Ich bin Sergey – Tätowierer aus Kamenz & Dresden mit über 20 Jahren Erfahrung. In meinem One-Artist-Studio AmorsNadel zeichne und steche ich jedes Motiv selbst: feine Finelines, kontrastreiches Blackwork, realistische Porträts, Kalligrafie und wikingische Runen. So bekommst du ein individuelles Custom-Tattoo aus einer Hand – präzise, hygienisch und genau auf dich abgestimmt.',
     imageUrl: '/images/tattoo-kuenstler-sergej-amorsnadel.png',
     specialties: ['Finelines', 'Blackwork', 'Kalligrafie (Calligraphy)', 'Realismus & Custom Portrait', 'Wikingische Runen & Mythen'],
     languages: ['Deutsch', 'Englisch', 'Ukrainisch'],
@@ -131,7 +131,7 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     id: 't1',
     name: 'Sarah K.',
-    text: 'Sergejs Kalligrafie an meiner Wirbelsäule ist ein Meisterwerk. Die feinen Linien sind auch nach Monaten noch messerscharf. Das ganze Studio strahlt eine so warme und beruhigende Atmosphäre aus. Unfassbare Präzision!',
+    text: 'Sergeys Kalligrafie an meiner Wirbelsäule ist ein Meisterwerk. Die feinen Linien sind auch nach Monaten noch messerscharf. Das ganze Studio strahlt eine so warme und beruhigende Atmosphäre aus. Unfassbare Präzision!',
     rating: 5,
     date: 'Vor 2 Wochen',
     style: 'Kalligrafie'
@@ -139,7 +139,7 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     id: 't2',
     name: 'Dennis M.',
-    text: 'Wer ein wikingisches oder geometrisches Tattoo will, muss zu Sergej. Er hat mein voriges Tattoo perfekt überarbeitet und einen gigantischen Ärmel gestochen. Spitzenklasse in Beratung, Hygiene und Umsetzung.',
+    text: 'Wer ein wikingisches oder geometrisches Tattoo will, muss zu Sergey. Er hat mein voriges Tattoo perfekt überarbeitet und einen gigantischen Ärmel gestochen. Spitzenklasse in Beratung und Umsetzung.',
     rating: 5,
     date: 'Vor 1 Monat',
     style: 'Wikingisch / Blackwork'
@@ -147,7 +147,7 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     id: 't3',
     name: 'Emilia L.',
-    text: 'Ich habe mein erstes Fineline-Tattoo bei AmorsNadel stechen lassen. Die Aufklärung zur Hygiene und Pflege war erstklassig. Ich habe mich absolut sicher und professionell aufgehoben gefühlt.',
+    text: 'Ich habe mein erstes Fineline-Tattoo bei AmorsNadel stechen lassen. Die Beratung und die Pflege-Tipps danach waren erstklassig. Ich habe mich absolut sicher und professionell aufgehoben gefühlt.',
     rating: 5,
     date: 'Vor 3 Tagen',
     style: 'Botanisch Fineline'
